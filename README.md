@@ -53,6 +53,7 @@ $ go mod tidy
 $ go run ./cmd/web
 ```
 # Usage
+*The application is running on HTTPS. Eg: https://localhost:4000*
 ## Configuration Management
 Snippetbox supports configuration management for the following flags:
 * _addr_ - Port Address (default is ':4000')
